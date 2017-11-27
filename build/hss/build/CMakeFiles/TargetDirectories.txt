@@ -1,8 +1,0 @@
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/oai_hss.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/hss_utils.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/rebuild_cache.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/hss_access_restriction.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/hss_auc.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/edit_cache.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/hss_db.dir
-/home/dukl/openair5g-cn/build/hss/build/CMakeFiles/hss_s6a.dir
