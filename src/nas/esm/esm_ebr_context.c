@@ -124,7 +124,7 @@ esm_ebr_context_create (
   OAILOG_FUNC_IN (LOG_NAS_ESM);
   esm_ctx = &emm_context->esm_ctx;
   printf("-------------------------------------------------in esm_ebr_context.c-----------------------------------------------------\n\n");
-  obj_hashtable_get(mme_app_desc.mme_ue_contexts.guti_ue_context_htbl,&emm_context->_guti,sizeof(guti_t),esm_ctx_dukl);
+//  obj_hashtable_get(mme_app_desc.mme_ue_contexts.guti_ue_context_htbl,&emm_context->_guti,sizeof(guti_t),esm_ctx_dukl);
   printf("-------------------------------------------------in esm_ebr_context.c-----------------------------------------------------\n\n");
   ue_mm_context_t      *ue_mm_context = PARENT_STRUCT(emm_context, struct ue_mm_context_s, emm_context);
 
